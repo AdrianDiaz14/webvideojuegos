@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB347</color> <!-- Naranja pastel -->
+    <color name="colorPrimaryDark">#E69138</color> <!-- Naranja pastel oscuro -->
+    <color name="colorPrimaryLight">#FFD580</color> <!-- Naranja pastel claro -->
+    <color name="colorSecondary">#BEBEBE</color> <!-- Gris medio -->
+    <color name="colorSecondaryDark">#9C9C9C</color> <!-- Gris medio oscuro -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Blanco -->
+    <color name="colorText">#000000</color> <!-- Negro -->
+</resources>

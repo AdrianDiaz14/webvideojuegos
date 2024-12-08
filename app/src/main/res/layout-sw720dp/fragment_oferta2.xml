@@ -1,0 +1,12 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image_view_oferta2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/offer9"
+        android:scaleType="centerCrop"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

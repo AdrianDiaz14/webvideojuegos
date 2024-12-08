@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="0dp"
+        android:right="0dp"
+        android:top="16dp"
+    android:bottom="0dp">
+    <shape android:shape="rectangle">
+        <solid android:color="?attr/selectableItemBackground" />
+    </shape>
+</item>
+    </layer-list>

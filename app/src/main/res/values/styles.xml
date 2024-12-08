@@ -1,0 +1,16 @@
+<resources>
+    <!-- Otros estilos existentes -->
+
+    <!-- Estilo personalizado para EditText con bordes redondeados -->
+    <style name="RoundedEditText">
+        <item name="android:background">@drawable/rounded_edittext</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+
+    <style name="NavMenuItemStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+</resources>
